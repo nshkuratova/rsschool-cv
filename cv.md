@@ -64,3 +64,14 @@ public final class SharedPrefHelper {
     }
 }
 ```
+Experience
+---------
+All projects could be found on [Github](https://github.com/nshkuratova/)
+
+Education
+---------
+Belarussian State University - Applied Mathematics _2005-2010_ 
+
+English
+-------
+Advanced
